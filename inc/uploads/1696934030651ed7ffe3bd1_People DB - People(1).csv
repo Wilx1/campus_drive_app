@@ -1,0 +1,21 @@
+s/no,staff_id,Full name,firstName,lastName,middleName,business_unit_name,unit_short_name,group,Group Original Name,Group Short,Role,phone,email,Password,isUser
+1,MGT-209,Joel Ofoedu,Joel,Ofoedu,Abu,Management,MGT,1,Chairman,C,Chairman,0201-367-8843,ofoedu.j@nilds.gov.ng,ofoedu.j,1
+2,ODG-123,Agnes Tari,Agnes,Tari,,Office of the DG,ODG,6,Staff,S,Staff,0816-113-9597,agnes.t@nils.gov.ng,agnes.t,1
+3,LSS-506,Fatima Bashir,Fatima,Bashir,,Legislative support services,LSS,4,Director,D,Head of LSS,0805-585-5716,fatima.b@nils.gov.ng,fatima.b,1
+4,FAA-256,Efe Muinat,Efe,Muinat,,Finance and accounts,FAC,4,Director,D,Head of FAA,0709-097-1801,efe.m@nils.gov.ng,efe.m,1
+5,ODG-554,Rasheed Balogun,Rasheed,Balogun,,Office of the DG,ODG,6,Staff,S,Staff,0802-309-0331,rasheed.b@nils.gov.ng,rasheed.b,1
+6,ESR-617,Adebayo Oluwakomi,Adedayo ,Oluwakomi,,Economic and social Research,ESR,6,Staff,S,Staff,0816-769-3210,adedayo.o@nils.gov.ng,adedayo.o,1
+7,DOS-145,Cherechi Adaobi,Cherechi ,Adaobi,,Department of studies,DOS,6,Staff,S,Staff,0816-769-3102,cherechi.a@nils.gov.ng,cherechi.a,1
+8,ITA-123,Chukwu  Olasunkanmi,Chukwu,Olasunkanmi,,Internal Audit,ITA,6,Staff,S,Staff,0705-730-3968,chukwu.o@nils.gov.ng,chukwu.o,1
+9,DAG-123,Lola Jamiu,Lola ,Jamiu,,Democracy and Governance,DAG,6,Staff,S,Staff,0809-153-0987,lola.j@nils.gov.ng,lola.j,1
+10,LBS-667, Katherine Chimamanda, Katherine,Chimamanda,,Library Services,LBS,6,Staff,S,Staff,0804-948-9175,katherine.c@nils.gov.ng,katherine.c,1
+11,TIC-455,Ireti Taiwo,Ireti ,Taiwo,,Training and International cooperation,TIC,6,Staff,S,Staff,0903-098-3492,ireti.t@nils.gov.ng,ireti.t,1
+12,AHR-776,Oluwunmi  Ismail,Oluwunmi,Ismail,,Administration and Human Resources,AHR,6,Staff,S,Staff,0703-018-4675,oluwunmi.i@nils.gov.ng,oluwunmi.i,1
+13,ODG-456,Jadesola Kayode,Jadesola ,Kayode,,0ffice of the DG,ODG,6,Staff,S,Staff,0706-600-4191,jadesola.k@nils.gov.ng,jadesola.k,1
+14,LSS-123,Tari Onyinyechukwu,Tari ,Onyinyechukwu,,Legislative support services,LSS,6,Staff,S,Staff,0805-656-0043,tari.o@nils.gov.ng,tari.o,1
+15,DOS-789,Yakubu Wuraola,Yakubu ,Wuraola,,Department of studies,DOS,6,Staff,S,Staff,0817-116-2370,yakubu.w@nils.gov.ng,yakubu.w,1
+16,DAG-456,Chinyere Oyelude,Chinyere ,Oyelude,,Democracy and Governance,DAG,6,Staff,S,Staff,0709-459-8888,chinyere.o@nils.gov.ng,chinyere.o,1
+17,ITA-890,Sarah  Onoriode,Sarah,Onoriode,,Internal Audit,ITA,6,Staff,S,Staff,0709-459-8866,onoriode.s@nils.gov.ng,onoriode.s,1
+18,ESR-789,Isioma Rachael,Isioma ,Rachael,,Economic and social Research,ESR,4,Director,D,Head of ESR,0808-310-1402,isioma.r@nils.gov.ng,isioma.r,1
+19,LBS-458,Ifeoma  Wuraola,Ifeoma,Wuraola,,Library Services,LBS,4,Director,D,Head of LBS,0819-619-0168,ifeoma.w@nils.gov.ng,ifeoma.w,1
+20,FAC-789,Adegoke Amaechi,Adegoke ,Amaechi,,Finance and accounts,FAC,6,Staff,S,Staff,0708-554-8462,adegoke.a@nils.gov.ng,adegoke.a,1
